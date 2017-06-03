@@ -1,4 +1,4 @@
-# Thesis
+# Bachelor Thesis
 
 Welcome to the repository of the Bachelor Thesis of Juan David Ruiz (Environment and Energy)
 
@@ -14,10 +14,18 @@ Light Sensor              TCS34725 by Adafruit (https://www.adafruit.com/product
 Microcontroller           ESP8266 by NodeMCU (http://nodemcu.com/index_en.html)
 
 Power Supply 5V 1000 mA
-Waterproof Case.
-Jumper wires, resistors, micro-usb cable, breadboard, PCB.
+waterproof Case.
+jumper wires, resistors, micro-usb cable, breadboard, PCB.
 
 Special Tools:
 
-Arduino IDE and Electronics soldering station
+Arduino IDE and electronics soldering station
+
+Libraries used:
+
+#include <ESP8266WiFi.h> (https://github.com/ekstrand/ESP8266wifi)
+#include <Adafruit_MQTT.h> (https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT.h)
+#include <Adafruit_MQTT_Client.h> (https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/Adafruit_MQTT_Client.h)
+#include <Adafruit_TCS34725.h> (https://github.com/adafruit/Adafruit_TCS34725)
+#include <DHT.h> (https://github.com/adafruit/DHT-sensor-library)
 
