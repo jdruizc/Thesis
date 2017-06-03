@@ -55,15 +55,15 @@ Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_50MS, TCS3472
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "i40"
-#define WLAN_PASS       "AdpwKx0iazs5XXG1pUbB"
+#define WLAN_SSID       "****"
+#define WLAN_PASS       "****"
 
 /************************* Adafruit.io Setup *********************************/
 
-#define AIO_SERVER      "153.97.176.33"
-#define AIO_SERVERPORT  8883                   // 8883 for MQTTS
-#define AIO_USERNAME    "ruju"
-#define AIO_KEY         "4yZDpdW4ZNPJsrhO0Rst"
+#define AIO_SERVER      "******"
+#define AIO_SERVERPORT  *****                   // 8883 for MQTTS
+#define AIO_USERNAME    "*****"
+#define AIO_KEY         "******"
 #define TOPIC_PREFIX    "/ruju/thesis/"
 /************ Global State (you don't need to change this!) ******************/
 
