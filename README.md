@@ -1,10 +1,10 @@
 # Bachelor Thesis
 
-Welcome to the repository of the Bachelor Thesis of Juan David Ruiz (Environment and Energy)
+**Welcome to the repository of the Bachelor Thesis of Juan David Ruiz (Environment and Energy)**
 
 The Project is to build an environmental data logger (carbon dioxide, humidity and temperature, light intensity and color and soil moisture).
 
-The components used were:
+**The components used were:**
 
 
 Carbon Dioxide Sensor     K-30 by Sense Air (http://www.senseair.com/products/oem-modules/k30/)
@@ -21,11 +21,11 @@ Power Supply 5V 1000 mA
 waterproof Case.
 jumper wires, resistors, micro-usb cable, breadboard, PCB.
 
-Special Tools:
+**Special Tools:**
 
-Arduino IDE and electronics soldering station
+Arduino IDE, Grafana IoT platform and electronics soldering station
 
-Libraries used:
+**Libraries used:**
 
 #include <ESP8266WiFi.h> (https://github.com/ekstrand/ESP8266wifi)
 
